@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/fcc-fel1/static/media/background.24fc77fe.24fc77fe.png"
   },
   {
-    "revision": "265819f627bb341640da",
-    "url": "/fcc-fel1/static/css/main.ece18ade.chunk.css"
+    "revision": "28b3e0f7a059fa8b43b9",
+    "url": "/fcc-fel1/static/css/main.cd09ceb7.chunk.css"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/fcc-fel1/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "265819f627bb341640da",
-    "url": "/fcc-fel1/static/js/main.265819f6.chunk.js"
+    "revision": "28b3e0f7a059fa8b43b9",
+    "url": "/fcc-fel1/static/js/main.28b3e0f7.chunk.js"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/fcc-fel1/static/css/1.6d7749eb.chunk.css"
   },
   {
-    "revision": "3d365aea424fd5e091bf253ff7a3e78c",
+    "revision": "8fda00920eed5527dfc068fc4c31d452",
     "url": "/fcc-fel1/index.html"
   }
 ];
